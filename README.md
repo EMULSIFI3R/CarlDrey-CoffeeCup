@@ -13,4 +13,18 @@ Cozy Cup Cafe is a web project designed to showcase the offerings and ambiance o
 
 ## Screen Captures
 
-![img]("sc1")
+![img]("sc1.png")
+
+* In this image, the homepage is shown for the title and the subtitle for the page, along with the logo in the center. At the top right, there is a quick access menu.
+
+![img](sc2.png)
+
+* In this image, you can see the products that are listed  in the menu, these products are the hot and cold drinks where the users can choose from.
+
+![img](sc3.png)
+
+* In this section, you can see the procucts for the pastry section that the user can choose from
+
+![img](sc4.png)
+
+* In this section, you will see the about us and the information about the application
