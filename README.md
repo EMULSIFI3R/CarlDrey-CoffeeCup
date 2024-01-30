@@ -13,7 +13,7 @@ Cozy Cup Cafe is a web project designed to showcase the offerings and ambiance o
 
 ## Screen Captures
 
-![img]("img/sc1.png")
+![img](img/sc1.png)
 
 * In this image, the homepage is shown for the title and the subtitle for the page, along with the logo in the center. At the top right, there is a quick access menu.
 
